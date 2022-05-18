@@ -117,7 +117,7 @@ body {
 
 .title_block_bg {
     
-    background-image: url(./img/backgarund.png);
+    background-image: url(../img/backgarund.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 90%;
