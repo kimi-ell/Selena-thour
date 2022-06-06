@@ -482,6 +482,11 @@ body {
     max-height: 500px;
 }
 
+.title_block_smal-span-sele {
+    display: block;
+    margin-top: 20px;
+}
+
 .footer_bg {
     background-color: #fff;
     box-shadow: 8px 0px 8px 1px rgba(0, 0, 0, .2);
